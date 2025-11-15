@@ -1,0 +1,43 @@
+﻿@model List<Recepie_Admin_.Models.Recipe>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Recipes by @ViewBag.Username</h2>
+
+    <div class="table-responsive shadow-sm p-3 bg-white rounded">
+        <table class="table table-striped table-bordered text-center align-middle">
+            <thead class="table-primary">
+                <tr>
+                    <th>Recipe Title</th>
+                    <th>Preparation Time</th>
+                    <th>Difficulty</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var recipe in Model)
+                    {
+                        <tr>
+                            <td>@recipe.Title</td>
+                            <td>@recipe.PreparationTime mins</td>
+                            <td>@recipe.Difficulty</td>
+                            <td>
+                                <div class="d-flex gap-2 justify-content-center">
+                                    <a href="@Url.Action("ViewDetails", "Home", new { id = recipe.Id })"
+                                       class="btn btn-info btn-sm text-white">View More</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="4">No recipes found for this user.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

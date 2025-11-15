@@ -1,0 +1,163 @@
+﻿@model IEnumerable<Recepie_Admin_.Models.Recipe>
+
+@{
+
+    ViewData["Title"] = "All Recipes";
+}
+
+<style>
+    /* ---- Table Layout Fix ---- */
+    table.recipe-table {
+        table-layout: fixed;
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        table.recipe-table th,
+        table.recipe-table td {
+            text-align: left;
+            vertical-align: top;
+            padding: 8px;
+            border: 1px solid #dee2e6;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+    /* ---- Wrap Long Text ---- */
+    .wrap-text {
+        white-space: normal !important;
+        word-break: break-word;
+        max-width: 200px;
+    }
+
+    /* ---- Column Width Control ---- */
+    th:nth-child(1), td:nth-child(1) {
+        width: 5%;
+    }
+    /* ID */
+    th:nth-child(2), td:nth-child(2) {
+        width: 12%;
+    }
+    /* Title */
+    th:nth-child(3), td:nth-child(3) {
+        width: 10%;
+    }
+    /* Image */
+    th:nth-child(4), td:nth-child(4) {
+        width: 10%;
+    }
+    /* Prep Time */
+    th:nth-child(5), td:nth-child(5) {
+        width: 10%;
+    }
+    /* Difficulty */
+    th:nth-child(6), td:nth-child(6) {
+        width: 15%;
+    }
+    /* Ingredients */
+    th:nth-child(7), td:nth-child(7) {
+        width: 15%;
+    }
+    /* Steps */
+    th:nth-child(8), td:nth-child(8) {
+        width: 8%;
+    }
+    /* ViewCount */
+    th:nth-child(9), td:nth-child(9) {
+        width: 10%;
+    }
+    /* Author */
+    th:nth-child(10), td:nth-child(10) {
+        width: 15%;
+    }
+    /* Actions */
+
+    /* ---- Image Style ---- */
+    .recipe-img {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        border-radius: 6px;
+    }
+
+    /* ---- Button Styles ---- */
+    .btn-sm {
+        font-size: 0.85rem;
+        padding: 4px 8px;
+    }
+</style>
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Recipe Feed</h2>
+
+    <div class="table-responsive shadow-sm p-3 bg-white rounded">
+        <table class="table recipe-table table-striped table-bordered">
+            <thead class="table-primary">
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Image</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var recipe in Model)
+                    {
+                        <tr>
+                            <td>@recipe.Id</td>
+                            <td>@recipe.Title</td>
+                            <td>
+                                @if (!string.IsNullOrEmpty(recipe.Image))
+                                {
+                                    <img src="@recipe.Image" alt="Recipe Image" class="recipe-img" />
+                                }
+                                else
+                                {
+                                    <span>No Image</span>
+                                }
+                            </td>
+
+                            <!-- ✅ Actions Column -->
+                            <td>
+                                <div class="d-flex flex-column gap-2">
+                                    <a href="@Url.Action("ViewDetails", "Home", new { id = recipe.Id })"
+                                       class="btn btn-info btn-sm text-white">
+                                        View More
+                                    </a>
+
+                                    @* @if (recipe.User != null)
+                                    {
+                                        if (recipe.User.IsActive)
+                                        {
+                                            <form asp-action="BlockUser" asp-controller="Home" method="post" style="display:inline;">
+                                                <input type="hidden" name="userId" value="@recipe.User.Id" />
+                                                <button type="submit" class="btn btn-danger btn-sm">Block</button>
+                                            </form>
+                                        }
+                                        else
+                                        {
+                                            <form asp-action="UnblockUser" asp-controller="Home" method="post" style="display:inline;">
+                                                <input type="hidden" name="userId" value="@recipe.User.Id" />
+                                                <button type="submit" class="btn btn-success btn-sm">Unblock</button>
+                                            </form>
+                                        }
+                                    } *@
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="10" class="text-center">No recipes available.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <partial name="Pagination" />
+
+    </div>
+</div>

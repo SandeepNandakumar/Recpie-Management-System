@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\shared\\pagination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\shared\\pagination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\home\\mostviewed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\home\\mostviewed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\home\\listingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\home\\listingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\home\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\home\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\views\\shared\\loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\views\\shared\\loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\recepie(admin).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\recepie(admin).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\recepie(admin).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\recepie(admin).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\migrations\\20251023071734_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\migrations\\20251023071734_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\migrations\\20251023153715_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\migrations\\20251023153715_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|c:\\users\\sande\\source\\repos\\recepie(admin)\\recepie(admin)\\migrations\\20251028062606_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A6DF94-F071-462C-9D58-7A52CACBABF8}|Recepie(Admin)\\Recepie(Admin).csproj|solutionrelative:recepie(admin)\\migrations\\20251028062606_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagination.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Shared\\Pagination.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Shared\\Pagination.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Shared\\Pagination.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Shared\\Pagination.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T06:32:05.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Home\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\UserProfile.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Home\\UserProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T13:40:31.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListingPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\ListingPage.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Home\\ListingPage.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\ListingPage.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Home\\ListingPage.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T12:58:55.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Home\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\UserList.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Home\\UserList.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T13:18:21.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Recepie(Admin)\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAALoAAAAAAAAAAAAqwMEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:44:27.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAwwGoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:27:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T06:41:11.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T13:29:00.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MostViewed.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\MostViewed.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Home\\MostViewed.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\MostViewed.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Home\\MostViewed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T13:23:04.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Shared\\LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Shared\\LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Shared\\LoginLayout.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Shared\\LoginLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T14:51:43.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\ViewDetails.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Home\\ViewDetails.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\ViewDetails.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Home\\ViewDetails.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T13:44:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Program.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Program.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Program.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:01:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\Recipe.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Models\\Recipe.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:30:43.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Recepie(Admin)\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T06:27:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Recepie(Admin)\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T13:32:21.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\User.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:29:29.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Recepie(Admin)\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-03T13:32:27.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Recepie(Admin)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAALgrAAAAAAAAAAAuwNQrAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T13:34:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\appsettings.json",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\appsettings.json",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\appsettings.json",
+              "RelativeToolTip": "Recepie(Admin)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T06:44:18.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:01:38.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Models\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Models\\ChangePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:00:04.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251028062606_first.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Migrations\\20251028062606_first.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Migrations\\20251028062606_first.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Migrations\\20251028062606_first.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Migrations\\20251028062606_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:26:07.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\DBContext\\Dbcontext.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\DBContext\\Dbcontext.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\DBContext\\Dbcontext.cs",
+              "RelativeToolTip": "Recepie(Admin)\\DBContext\\Dbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:23:01.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Recepie(Admin)",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Recepie(Admin).csproj",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Recepie(Admin).csproj",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Recepie(Admin).csproj",
+              "RelativeToolTip": "Recepie(Admin)\\Recepie(Admin).csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T15:58:58.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Recepie(Admin)\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T15:59:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251023153715_Final.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Migrations\\20251023153715_Final.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Migrations\\20251023153715_Final.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Migrations\\20251023153715_Final.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Migrations\\20251023153715_Final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:37:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Recepie(Admin).csproj",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Recepie(Admin).csproj",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Recepie(Admin).csproj",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Recepie(Admin).csproj",
+              "RelativeToolTip": "Recepie(Admin)\\Recepie(Admin).csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T06:19:18.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251023071734_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Migrations\\20251023071734_Initial.cs",
+              "RelativeDocumentMoniker": "Recepie(Admin)\\Migrations\\20251023071734_Initial.cs",
+              "ToolTip": "C:\\Users\\sande\\source\\repos\\Recepie(Admin)\\Recepie(Admin)\\Migrations\\20251023071734_Initial.cs",
+              "RelativeToolTip": "Recepie(Admin)\\Migrations\\20251023071734_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:17:34.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

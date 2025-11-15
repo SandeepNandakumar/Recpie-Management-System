@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Recepie_Admin_.Models.User>
+
+@{
+    ViewData["Title"] = "All Users";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Users List</h2>
+
+    <div class="table-responsive shadow-sm p-3 bg-white rounded">
+        <table class="table table-striped table-bordered text-center align-middle">
+            <thead class="table-primary">
+                <tr>
+                    <th>Username</th>
+                    <th>Email</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Username</td>
+                        <td>@user.Email</td>
+                        <td>
+                            @if (user.IsActive)
+                            {
+                                <span class="badge bg-success">Active</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">Blocked</span>
+                            }
+                        </td>
+                        <td>
+                            <form asp-controller="Home" asp-action="ToggleUserStatus" asp-route-id="@user.Id" method="post" style="display:inline;">
+                                <button type="submit" class="btn @(user.IsActive ? "btn-danger" : "btn-success") btn-sm">
+                                    @(user.IsActive ? "Block" : "Unblock")
+                                </button>
+                            </form>
+
+                            <a asp-controller="Home"
+                               asp-action="UserProfile"
+                               asp-route-id="@user.Id"
+                               class="btn btn-primary btn-sm">
+                                View
+                            </a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <partial name="Pagination" />
+    </div>
+</div>
